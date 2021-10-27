@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.matnik.co.uk" resolutions="1x" timestamp="1635352583043">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.matnik.co.uk" resolutions="1x" timestamp="1635352820866">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4012332148" ref="index"/>
-    <file name="nomq_index.css" crc="292554538" ref="index"/>
+    <file name="index.css" crc="480054228" ref="index"/>
+    <file name="nomq_index.css" crc="4237132926" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,7 +23,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="fade.png" crc="4294955299" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -121,9 +120,6 @@
     <file name="u1599-42.png" crc="4248993681" ref="index"/>
     <file name="u1605-42.png" crc="407173281" ref="index"/>
     <file name="u1608-42.png" crc="4154448741" ref="index"/>
-    <file name="background logo_mockup_matnik952x634.png" crc="339572755" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo_mockup_matnik624x416.png" crc="313374817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -169,6 +165,12 @@
     <file name="u1599-43.png" crc="4248993681" ref="index"/>
     <file name="u1605-43.png" crc="407173281" ref="index"/>
     <file name="u1608-43.png" crc="4154448741" ref="index"/>
+    <file name="background logo_mockup_matnik751x501.png" crc="4037115556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade768x238.png" crc="287705407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3833214289" seo="true" mt="1635352582567" redirect="true"/>
+  <file name="index.html" crc="304760345" seo="true" mt="1635352820202" redirect="true"/>
 </manifest>
