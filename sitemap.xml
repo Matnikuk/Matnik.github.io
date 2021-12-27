@@ -48,13 +48,13 @@
       <image:loc>http://www.matnik.co.uk/images/logo_mockup_matnik624x416.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.matnik.co.uk/images/fade768x238.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.matnik.co.uk/images/background%20logo_mockup_matnik768x512.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.matnik.co.uk/images/fade768x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.matnik.co.uk/images/fade768x238.png</image:loc>
     </image:image>
   </url>
 </urlset>
