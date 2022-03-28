@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://matnik.co.uk/index.html</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,10 +18,10 @@
       <image:loc>http://matnik.co.uk/images/pasted%20image%2036x36.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/capa%200%20copia%202.png</image:loc>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/layer%200.png</image:loc>
+      <image:loc>http://matnik.co.uk/images/b.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/layer%207.png</image:loc>
@@ -39,28 +39,10 @@
       <image:loc>http://matnik.co.uk/images/logo_mockup_matnik774x516.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055692x521.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://matnik.co.uk/images/fade-crop-u1634.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/logo_mockup_matnik624x416.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/fade-crop-u1611.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/fade768x154.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/fade-crop-u16112.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/logo_mockup_matnik433x289.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/capa%200%20copia%202227x327.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/layer%200258x327.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik800x534.png</image:loc>
@@ -69,10 +51,34 @@
       <image:loc>http://matnik.co.uk/images/fade808x250.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://matnik.co.uk/images/logo_mockup_matnik624x416.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade-crop-u1611.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055553x417.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/b356x237.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade768x154.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik537x597.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/fade538x238.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/logo_mockup_matnik433x289.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade-crop-u16112.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055549x414.png</image:loc>
     </image:image>
   </url>
 </urlset>
