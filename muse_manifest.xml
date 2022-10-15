@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matnik.co.uk" resolutions="1x" timestamp="1665870846188">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matnik.co.uk" resolutions="1x" timestamp="1665876861818">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4137031900" ref="index"/>
-    <file name="nomq_index.css" crc="4093109358" ref="index"/>
+    <file name="index.css" crc="4114967607" ref="index"/>
+    <file name="nomq_index.css" crc="4048194373" ref="index"/>
     <file name="artists.css" crc="3871158205" ref="artists"/>
     <file name="eon-embassy.css" crc="4162840824" ref="eon-embassy"/>
   </folder>
@@ -20,11 +20,10 @@
     <file name="require.js" crc="4157109226" ref="index:artists:eon-embassy"/>
   </folder>
   <folder name="images">
-    <file name="background logo_mockup_matnik.png" crc="32562441" seo="true" ref="index">
+    <file name="fade.png" crc="4294955299" seo="true" ref="eon-embassy:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="fade.png" crc="4294955299" seo="true" ref="index:eon-embassy">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -47,12 +46,6 @@
     <file name="u733-r.png" crc="4050935517" ref="index"/>
     <file name="u755.png" crc="353342791" ref="index"/>
     <file name="u755-r.png" crc="487470084" ref="index"/>
-    <file name="pasted image 36x36.png" crc="167986542" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u717-4.png" crc="3796506980" ref="index"/>
     <file name="img-20190510-wa0055.png" crc="208585257" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -126,7 +119,7 @@
     </file>
     <file name="u1416-132.png" crc="228884254" ref="index"/>
     <file name="u632-42.png" crc="216493697" ref="index"/>
-    <file name="fade-crop-u1634.png" crc="220434535" seo="true" ref="index">
+    <file name="fade-crop-u1634.png" crc="4018383913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1370-162.png" crc="3882905869" ref="index"/>
@@ -151,12 +144,6 @@
     <file name="u1599-42.png" crc="4248993681" ref="index"/>
     <file name="u1605-42.png" crc="407173281" ref="index"/>
     <file name="u1608-42.png" crc="4154448741" ref="index"/>
-    <file name="background logo_mockup_matnik800x534.png" crc="3928990840" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fade808x250.png" crc="4294955299" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo_mockup_matnik624x416.png" crc="313374817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -179,9 +166,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1416-133.png" crc="3829838426" ref="index"/>
-    <file name="fade768x154.png" crc="287705407" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u632-43.png" crc="4175229259" ref="index"/>
     <file name="u3897.png" crc="412664735" ref="index"/>
     <file name="u3897-r.png" crc="441867360" ref="index"/>
@@ -227,14 +211,14 @@
     <file name="fade-crop-u16112.png" crc="4279033486" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7484.png" crc="318759141" ref="index"/>
-    <file name="u748-r4.png" crc="200567745" ref="index"/>
-    <file name="u7404.png" crc="237111543" ref="index"/>
-    <file name="u740-r4.png" crc="4173301351" ref="index"/>
-    <file name="u7334.png" crc="84871399" ref="index"/>
-    <file name="u733-r4.png" crc="409652376" ref="index"/>
-    <file name="u7554.png" crc="3787160444" ref="index"/>
-    <file name="u755-r4.png" crc="379182910" ref="index"/>
+    <file name="u7484.png" crc="429879656" ref="index"/>
+    <file name="u748-r4.png" crc="3910075077" ref="index"/>
+    <file name="u7404.png" crc="3945003374" ref="index"/>
+    <file name="u740-r4.png" crc="3933689836" ref="index"/>
+    <file name="u7334.png" crc="4230037617" ref="index"/>
+    <file name="u733-r4.png" crc="4258881227" ref="index"/>
+    <file name="u7554.png" crc="3930625637" ref="index"/>
+    <file name="u755-r4.png" crc="284548218" ref="index"/>
     <file name="u717-44.png" crc="4147061569" ref="index"/>
     <file name="u1416-134.png" crc="105723500" ref="index"/>
     <file name="u632-44.png" crc="98734928" ref="index"/>
@@ -294,8 +278,8 @@
     <file name="u15488-r2.png" crc="439176198" ref="index"/>
     <file name="u154883.png" crc="523086554" ref="index"/>
     <file name="u15488-r3.png" crc="3762810625" ref="index"/>
-    <file name="u154884.png" crc="4046994424" ref="index"/>
-    <file name="u15488-r4.png" crc="3865167449" ref="index"/>
+    <file name="u154884.png" crc="272568993" ref="index"/>
+    <file name="u15488-r4.png" crc="4253912025" ref="index"/>
     <file name="u15656.png" crc="3903780475" ref="eon-embassy"/>
     <file name="u15656-r.png" crc="4265253926" ref="eon-embassy"/>
     <file name="u15650.png" crc="151506557" ref="eon-embassy"/>
@@ -306,20 +290,50 @@
     <file name="u15660-r.png" crc="321806310" ref="eon-embassy"/>
     <file name="u15635.png" crc="3802895766" ref="eon-embassy"/>
     <file name="u15635-r.png" crc="9724722" ref="eon-embassy"/>
+    <file name="img-20190510-wa0055532x401.png" crc="265097142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background logo_mockup_matnik951x634.png" crc="33926580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade-crop-u15885.png" crc="348787585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade-crop-u15907.png" crc="12519992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade-crop-u15929.png" crc="4018383913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background logo_mockup_matnik758x506.png" crc="3916943702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background logo_mockup_matnik.png" crc="32562441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade768x243.png" crc="287705407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fade768x154.png" crc="287705407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="background logo_mockup_matnik532x591.png" crc="72832505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="fade533x236.png" crc="120439954" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img-20190510-wa0055532x401.png" crc="265097142" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="fade533x154.png" crc="120439954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="498864281" seo="true" mt="1665870845639" redirect="true"/>
+  <file name="index.html" crc="77832243" seo="true" mt="1665876860761" redirect="true"/>
   <file name="artists.html" crc="3898946180" seo="true" mt="1663928357389" redirect="true"/>
   <file name="eon-embassy.html" crc="329608455" seo="true" mt="1664007954653" redirect="true"/>
 </manifest>

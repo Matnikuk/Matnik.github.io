@@ -6,16 +6,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://matnik.co.uk/images/fade.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/logo_mockup_matnik.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/pasted%20image%2036x36.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/img-20190510-wa0055.png</image:loc>
@@ -45,12 +39,6 @@
       <image:loc>http://matnik.co.uk/images/fade-crop-u1634.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik800x534.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/fade808x250.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://matnik.co.uk/images/logo_mockup_matnik624x416.png</image:loc>
     </image:image>
     <image:image>
@@ -63,22 +51,43 @@
       <image:loc>http://matnik.co.uk/images/b356x237.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/fade768x154.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://matnik.co.uk/images/logo_mockup_matnik433x289.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/fade-crop-u16112.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055532x401.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik951x634.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade-crop-u15885.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade-crop-u15907.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade-crop-u15929.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik758x506.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade768x243.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade768x154.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik532x591.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/fade533x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055532x401.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/fade533x154.png</image:loc>
