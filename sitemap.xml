@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://matnik.co.uk/index.html</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,19 +66,22 @@
       <image:loc>http://matnik.co.uk/images/fade768x154.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik537x597.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://matnik.co.uk/images/fade538x238.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://matnik.co.uk/images/logo_mockup_matnik433x289.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/fade-crop-u16112.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055549x414.png</image:loc>
+      <image:loc>http://matnik.co.uk/images/background%20logo_mockup_matnik532x591.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade533x236.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/img-20190510-wa0055532x401.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/fade533x154.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -95,7 +98,7 @@
   </url>
   <url>
     <loc>http://matnik.co.uk/eon-embassy.html</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
