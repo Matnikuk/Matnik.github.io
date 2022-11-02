@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matnik.co.uk" resolutions="1x" timestamp="1665876861818">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="matnik.co.uk" resolutions="1x" timestamp="1667426138282">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4114967607" ref="index"/>
     <file name="nomq_index.css" crc="4048194373" ref="index"/>
-    <file name="artists.css" crc="3871158205" ref="artists"/>
-    <file name="eon-embassy.css" crc="4162840824" ref="eon-embassy"/>
+    <file name="artists.css" crc="3903357881" ref="artists"/>
+    <file name="eon-embassy.css" crc="294250281" ref="eon-embassy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artists:eon-embassy"/>
     <file name="museutils.js" crc="3803043152" ref="index:artists:eon-embassy"/>
     <file name="whatinput.js" crc="86476730" ref="index:artists:eon-embassy"/>
     <file name="museconfig.js" crc="380897831" ref="index:artists:eon-embassy"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:eon-embassy"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:artists:eon-embassy"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:eon-embassy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index:artists:eon-embassy"/>
   </folder>
@@ -35,7 +35,7 @@
     <file name="logo_mockup_matnik.png" crc="372204797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:artists:eon-embassy">
+    <file name="blank.gif" crc="4208392903" ref="index:artists" seo="true">
       <caption webpage="artists" alt=""/>
     </file>
     <file name="u748.png" crc="318759141" ref="index"/>
@@ -280,16 +280,6 @@
     <file name="u15488-r3.png" crc="3762810625" ref="index"/>
     <file name="u154884.png" crc="272568993" ref="index"/>
     <file name="u15488-r4.png" crc="4253912025" ref="index"/>
-    <file name="u15656.png" crc="3903780475" ref="eon-embassy"/>
-    <file name="u15656-r.png" crc="4265253926" ref="eon-embassy"/>
-    <file name="u15650.png" crc="151506557" ref="eon-embassy"/>
-    <file name="u15650-r.png" crc="8477261" ref="eon-embassy"/>
-    <file name="u15641.png" crc="410898024" ref="eon-embassy"/>
-    <file name="u15641-r.png" crc="4277706806" ref="eon-embassy"/>
-    <file name="u15660.png" crc="3943182923" ref="eon-embassy"/>
-    <file name="u15660-r.png" crc="321806310" ref="eon-embassy"/>
-    <file name="u15635.png" crc="3802895766" ref="eon-embassy"/>
-    <file name="u15635-r.png" crc="9724722" ref="eon-embassy"/>
     <file name="img-20190510-wa0055532x401.png" crc="265097142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -334,6 +324,6 @@
     </file>
   </folder>
   <file name="index.html" crc="77832243" seo="true" mt="1665876860761" redirect="true"/>
-  <file name="artists.html" crc="3898946180" seo="true" mt="1663928357389" redirect="true"/>
-  <file name="eon-embassy.html" crc="329608455" seo="true" mt="1664007954653" redirect="true"/>
+  <file name="artists.html" crc="4133469933" seo="true" mt="1667426119086" redirect="true"/>
+  <file name="eon-embassy.html" crc="493230862" seo="true" mt="1667426076414" redirect="true"/>
 </manifest>

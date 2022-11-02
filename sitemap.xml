@@ -95,9 +95,12 @@
   </url>
   <url>
     <loc>http://matnik.co.uk/artists.html</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://matnik.co.uk/images/blank.gif</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://matnik.co.uk/images/matt.jpg</image:loc>
     </image:image>
@@ -107,7 +110,7 @@
   </url>
   <url>
     <loc>http://matnik.co.uk/eon-embassy.html</loc>
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
